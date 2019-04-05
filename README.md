@@ -1,4 +1,6 @@
 C++ library to parse, read csv from string or file stream.  required other library "strtool.h". find that in my github too...
 coming soon in C version...
 
+https://github.com/KevinAS28/strtool.h-CPP-String-tools
+
 Kevin AS
